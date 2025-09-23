@@ -1,0 +1,7 @@
+empty -> True
+empty -> False
+pop -> 678
+pop -> -230
+empty -> False
+empty -> False
+top -> 24

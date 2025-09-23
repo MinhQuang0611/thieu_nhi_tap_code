@@ -1,0 +1,11 @@
+addAtHead(-795
+addAtHead(150
+get(5)
+addAtHead(-395
+addAtHead(422
+addAtHead(-77
+addAtHead(-957
+get(9)
+deleteAtIndex(6)
+addAtIndex(3, -540)
+get(5)

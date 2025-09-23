@@ -1,0 +1,10 @@
+push 221
+getMin
+getMin
+push 863
+getMin
+pop
+push 945
+push 225
+pop
+getMin

@@ -1,0 +1,17 @@
+push 545
+getMin
+pop
+push 564
+top
+top
+top
+pop
+push 909
+pop
+push 258
+getMin
+push 54
+getMin
+getMin
+top
+top

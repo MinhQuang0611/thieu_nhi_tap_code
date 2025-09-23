@@ -1,0 +1,10 @@
+empty
+empty
+push -61
+push -975
+pop
+peek
+push 811
+pop
+empty
+pop

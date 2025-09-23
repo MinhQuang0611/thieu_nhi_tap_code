@@ -1,0 +1,10 @@
+empty
+push 678
+empty
+pop
+push -230
+pop
+push 24
+empty
+empty
+top

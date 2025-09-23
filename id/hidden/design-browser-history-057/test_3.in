@@ -1,0 +1,14 @@
+http://example2.com
+visit http://example13.com
+back 2
+back 4
+back 4
+forward 2
+visit http://example6.com
+back 3
+back 2
+back 4
+forward 2
+back 1
+visit http://example20.com
+forward 3

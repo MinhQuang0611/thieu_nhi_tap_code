@@ -1,0 +1,8 @@
+push -61
+pop
+push 370
+top
+push 242
+push 56
+empty
+push -429

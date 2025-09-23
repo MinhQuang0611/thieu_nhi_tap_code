@@ -1,0 +1,6 @@
+mkdir(/dir2)
+addContentToFile(/dir3/dir3/dir3/file.txt, idkgmjenaa)
+mkdir(/dir2/dir3)
+addContentToFile(/dir3/file.txt, pnzzewf)
+readContentFromFile(/dir3/dir1/file.txt)
+addContentToFile(/dir1/file.txt, seftwhbd)

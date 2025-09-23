@@ -1,0 +1,9 @@
+push 72
+top
+push -223
+pop
+pop
+push -486
+push 318
+pop
+getMin

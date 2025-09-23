@@ -1,0 +1,13 @@
+deQueue
+enQueue -709
+isEmpty
+Front
+isFull
+enQueue 949
+deQueue
+Front
+isEmpty
+Front
+isFull
+deQueue
+enQueue 19

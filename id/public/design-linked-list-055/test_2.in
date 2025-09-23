@@ -1,0 +1,11 @@
+addAtTail(403
+addAtHead(777
+deleteAtIndex(3)
+deleteAtIndex(10)
+deleteAtIndex(4)
+addAtTail(571
+get(4)
+addAtTail(-410
+addAtIndex(4, 866)
+get(2)
+get(6)

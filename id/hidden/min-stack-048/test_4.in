@@ -1,0 +1,11 @@
+push 489
+top
+getMin
+getMin
+getMin
+pop
+push -590
+top
+getMin
+top
+getMin

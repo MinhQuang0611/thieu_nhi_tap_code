@@ -1,0 +1,10 @@
+push 333
+push 402
+pop
+top
+push 507
+push 868
+push -344
+pop
+top
+pop

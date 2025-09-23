@@ -1,0 +1,6 @@
+addAtIndex(4, 888)
+addAtIndex(1, 636)
+deleteAtIndex(8)
+get(8)
+addAtHead(-237
+addAtIndex(8, -995)

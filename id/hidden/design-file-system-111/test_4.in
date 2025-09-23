@@ -1,0 +1,5 @@
+ls(/dir3)
+readContentFromFile(/dir2/file.txt)
+ls(/dir2/dir2/dir2)
+mkdir(/dir1/dir3/dir3)
+addContentToFile(/dir1/file.txt, lhouqw)

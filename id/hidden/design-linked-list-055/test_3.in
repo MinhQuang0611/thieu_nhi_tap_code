@@ -1,0 +1,14 @@
+addAtHead(7
+addAtTail(-150
+get(2)
+addAtTail(-269
+addAtTail(-587
+addAtIndex(9, 804)
+get(1)
+addAtHead(-114
+addAtTail(187
+addAtHead(144
+deleteAtIndex(5)
+addAtHead(-576
+addAtTail(910
+addAtTail(-759

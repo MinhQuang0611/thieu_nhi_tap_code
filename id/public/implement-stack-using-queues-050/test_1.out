@@ -1,0 +1,9 @@
+empty -> True
+empty -> False
+empty -> False
+pop -> -393
+empty -> False
+top -> -722
+top -> 568
+top -> 22
+pop -> 22

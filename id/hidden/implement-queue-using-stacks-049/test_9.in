@@ -1,0 +1,7 @@
+push 68
+empty
+push -839
+peek
+empty
+peek
+pop

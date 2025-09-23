@@ -1,0 +1,7 @@
+mkdir(/dir1/dir3)
+addContentToFile(/dir1/file.txt, xnofjr)
+addContentToFile(/dir3/file.txt, hpowx)
+mkdir(/dir3)
+ls(/dir2/dir1/dir2)
+mkdir(/dir3/dir3)
+ls(/dir1/dir3/dir2)
